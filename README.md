@@ -1,7 +1,5 @@
 # 云海拾句 · Up in the Cloud Sea
 
-## 🎮 [点击这里，直接打开作品](https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/)
-
 **在线地址：<https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/>**
 
 ---
