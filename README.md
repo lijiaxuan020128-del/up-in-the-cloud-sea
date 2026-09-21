@@ -1,9 +1,8 @@
 # 云海拾句 · Up in the Cloud Sea
 
-[![在线游玩](https://img.shields.io/badge/%E2%96%B6_%E7%82%B9%E5%87%BB%E7%9B%B4%E6%8E%A5%E6%B8%B8%E7%8E%A9-8A2BE2?style=for-the-badge&labelColor=5D3FD3)](https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/)
-[![GitHub Pages](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9D%80-lijiaxuan020128-del.github.io-2EA043?style=for-the-badge)](https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/)
+## 🎮 [点击这里，直接打开作品](https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/)
 
-**👉 或直接打开：https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/**
+**在线地址：<https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/>**
 
 ---
 
