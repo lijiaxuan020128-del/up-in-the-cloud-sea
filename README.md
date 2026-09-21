@@ -1,4 +1,11 @@
-# Up in the Cloud Sea · 云海拾句
+# 云海拾句 · Up in the Cloud Sea
+
+[![在线游玩](https://img.shields.io/badge/%E2%96%B6_%E7%82%B9%E5%87%BB%E7%9B%B4%E6%8E%A5%E6%B8%B8%E7%8E%A9-8A2BE2?style=for-the-badge&labelColor=5D3FD3)](https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/)
+[![GitHub Pages](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E5%9C%B0%E5%9D%80-lijiaxuan020128-del.github.io-2EA043?style=for-the-badge)](https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/)
+
+**👉 或直接打开：https://lijiaxuan020128-del.github.io/up-in-the-cloud-sea/**
+
+---
 
 一个单文件网页艺术作品：在风格化的云海（以及星云、极光）之上，漂浮着中外诗句。点击画面中的诗句，把它们拾进右侧的工作台，组合成一首属于你自己的诗，并查看每句的出处与情绪氛围。
 
@@ -10,7 +17,7 @@
 - 七本诗集的诗句随云层漂浮：博尔赫斯、泰戈尔、尹东柱、海涅、巴赫曼、阿多尼斯、普希金
 - 点击诗句拾取，工作台支持排序、分节、自己写一句、撤销、清除
 - 「完成创作」：成诗全文 + 复制 + 下载 + 逐句出处与情绪分析
-- 字号 / 密度 / 速度滑块，背景音乐与音效音量调节（音乐默认自动播放）
+- 字号 / 密度 / 速度滑块，背景音乐与音效音量调节
 
 ## Credits / 素材来源与授权
 
